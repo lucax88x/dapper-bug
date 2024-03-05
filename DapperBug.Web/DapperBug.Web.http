@@ -1,6 +1,0 @@
-@DapperBug.Web_HostAddress = http://localhost:5082
-
-GET {{DapperBug.Web_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperBug", "DapperBug\DapperBug.csproj", "{F8955510-E6FD-42A0-B249-9CE9C340A944}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperBug.Web", "DapperBug.Web\DapperBug.Web.csproj", "{CBE4AE12-BF0A-4BCD-9135-55C9128BE269}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperBug.Tests", "DapperBug.Tests\DapperBug.Tests.csproj", "{D53DA562-AC6D-42DD-A68D-2930014FB44C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -14,9 +14,9 @@ Global
 		{F8955510-E6FD-42A0-B249-9CE9C340A944}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8955510-E6FD-42A0-B249-9CE9C340A944}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8955510-E6FD-42A0-B249-9CE9C340A944}.Release|Any CPU.Build.0 = Release|Any CPU
-		{CBE4AE12-BF0A-4BCD-9135-55C9128BE269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CBE4AE12-BF0A-4BCD-9135-55C9128BE269}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CBE4AE12-BF0A-4BCD-9135-55C9128BE269}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CBE4AE12-BF0A-4BCD-9135-55C9128BE269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D53DA562-AC6D-42DD-A68D-2930014FB44C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D53DA562-AC6D-42DD-A68D-2930014FB44C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D53DA562-AC6D-42DD-A68D-2930014FB44C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D53DA562-AC6D-42DD-A68D-2930014FB44C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
