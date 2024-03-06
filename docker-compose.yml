@@ -1,0 +1,13 @@
+---
+version: "3.7"
+
+services:
+  postgresql:
+    image: postgres
+    restart: always
+    environment:
+      - POSTGRES_PASSWORD=demo
+      - POSTGRES_DB=demo
+      - POSTGRES_USER=demo
+    ports:
+      - "5432:5432"
